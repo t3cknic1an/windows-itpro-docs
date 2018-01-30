@@ -47,7 +47,7 @@ This topic explains how to enable BitLocker on an end user's computer by using M
     -   Escrow TPM OwnerAuth   
     For Windows 7, MBAM must own the TPM for escrow to occur.  
     For Windows 8.1, Windows 10 RTM and Windows 10 version 1511, escrow of TPM OwnerAuth is supported.   
-    For Windows 10, version 1607 or later, only Windows can take ownership of the TPM. In addiiton, Windows will not retain the TPM owner password when provisioning the TPM. See [TPM owner password](http://technet.microsoft.com/en-us/itpro/windows/keep-secure/change-the-tpm-owner-password) for further details.
+    For Windows 10, version 1607 or later, only Windows can take ownership of the TPM. In addition, Windows will not retain the TPM owner password when provisioning the TPM. See [TPM owner password](http://technet.microsoft.com/en-us/itpro/windows/keep-secure/change-the-tpm-owner-password) for further details.
 
     -   Escrow recovery keys and recovery key packages
 
